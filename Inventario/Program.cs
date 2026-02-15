@@ -1,4 +1,6 @@
 ﻿using Inventario;
+//Mi nombre aún no ha cambiado y es este: Eliu Hesiel Vallecillo Amaya  
+//Mi numero de cuenta sigue sinedo el mismo: 20231930134
 //Nombre: Eliu Hesiel Vallecillo Amaya
 //NumerodeCuenta: 20231930134
 
